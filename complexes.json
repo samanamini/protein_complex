@@ -1,0 +1,103 @@
+{
+ "name": "my_bubble_proteins",
+ "children": [
+  {
+   "name": "Pathway1",
+   "children": [
+    {
+     "name": "complex1",
+     "children": [
+      {"name": "Gene1", "size": 52},
+      {"name": "Gene2", "size": 386},
+      {"name": "Gene3", "size": 84}
+     ]
+    },
+    {
+     "name": "complex2",
+     "children": [
+      {"name": "Gene3", "size": 364},
+      {"name": "Gene4", "size": 214}
+     ]
+    }
+    ]
+    },
+    
+    
+    {
+     "name": "Pathway2",
+     "children": [
+      {
+     "name": "complex3",
+     "children": [
+      {"name": "Gene5", "size": 32},
+      {"name": "Gene6", "size": 57},
+      {"name": "Gene7", "size": 4}
+     ]
+    },
+    {
+     "name": "complex4",
+     "children": [
+      {"name": "Gene8", "size": 52},
+      {"name": "Gene9", "size": 25},
+      {"name": "Gene10", "size": 36}
+     ]
+    }
+    ]
+    },
+ 
+        {
+     "name": "Pathway3",
+     "children": [
+      {
+     "name": "complex6",
+     "children": [
+      {"name": "Gene11", "size": 15},
+      {"name": "Gene12", "size": 106},
+      {"name": "Gene13", "size": 12},
+      {"name": "Gene14", "size": 18},
+      {"name": "Gene15", "size": 14},
+      {"name": "Gene16", "size": 21}
+     ]
+    },
+    {
+     "name": "complex7",
+     "children": [
+      {"name": "Gene17", "size": 52},
+      {"name": "Gene18", "size": 25},
+      {"name": "Gene19", "size": 36}
+     ]
+    },
+    {
+     "name": "complex8",
+     "children": [
+     {"name": "Gene20", "size": 125},
+     {"name": "Gene21", "size": 91},
+     {"name": "Gene22", "size": 110},
+     {"name": "Gene23", "size": 92}
+     ]
+    }
+    ]
+    },
+    {
+     "name": "Pathway4",
+     "children": [
+      {
+     "name": "complex6",
+     "children": [
+      {"name": "Gene24", "size": 53},
+      {"name": "Gene25", "size": 112},
+      {"name": "Gene26", "size": 12}
+     ]
+    },
+    {
+     "name": "complex7",
+     "children": [
+      {"name": "Gene27", "size": 43},
+      {"name": "Gene28", "size": 5},
+      {"name": "Gene29", "size": 52}
+     ]
+    }
+    ]
+    }
+    ]
+    }

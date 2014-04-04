@@ -1,0 +1,10 @@
+### Saman Amini; time stamp: Apr 4, 2014; 1:10 PM
+### this is the readme file to describe complexes_in_pathway.html
+### The big circle is my whole collection of proteins in complexes inside different pathways.
+### the graph is interactive means if you move your mouse cursor on each bubble the 
+name of the gene and a number shows up. The number represent how many times that specific 
+gene is differetially expressed in a big dataset with more than 1000 deletions.
+
+### there are protein complexes with different number of subunits.
+### the name of the genes, complexes, and pathways are made up names. ;-)
+### the input file is in jason format in this folder.
